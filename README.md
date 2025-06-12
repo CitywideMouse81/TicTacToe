@@ -2,6 +2,7 @@
 A simple Tic-Tac-Toe made in C++
 
 This C++ program is a fully functional Tic Tac Toe game for two players played on a 3×3 grid. The game is developed using a procedural programming style and demonstrates fundamental concepts such as loops, conditionals, functions, arrays, and user input validation.
+
 🔧 Features:
 
     Interactive Console Interface
